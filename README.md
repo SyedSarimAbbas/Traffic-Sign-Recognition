@@ -1,4 +1,4 @@
-# Traffic Sign Recognition 🚦
+# Traffic Sign Recognition 
 
 A deep learning-based system for automatic traffic sign classification using Convolutional Neural Networks (CNNs) with TensorFlow/Keras. The model is trained on a labeled dataset of road signs and achieves ~97% training accuracy.
 
